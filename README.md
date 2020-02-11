@@ -1,4 +1,4 @@
-# 2020_Sojung-Record
+# 2020_1_Sojung_Record
 
 #### 이 깃의 목적
 - 개인적으로 코드 짠 것들 업로드
